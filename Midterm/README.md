@@ -1,7 +1,5 @@
-## Ruby
-```
+# Ruby
 
-```
 ### 設計理念
 Ruby是一種動態、開源的物件導向程式語言，它在設計上注重程式碼的可讀性和簡潔性。
 Ruby的理念是減少編程時不必要的瑣碎時間以及人性化的介面設計，令編寫程式的人能感到高興。
@@ -55,6 +53,6 @@ dog.speak
 這些特點使得Ruby成為一個極具表達力和靈活性的程式語言。
 
 ### 參考資料
-部分程式碼來自CHATGPT
-https://www.ruby-lang.org/
+部分程式碼來自CHATGPT<br/>
+https://www.ruby-lang.org/<br/>
 https://zh.wikipedia.org/zh-tw/Ruby
